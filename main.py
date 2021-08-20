@@ -93,7 +93,7 @@ def integrate(U,U_nxt,T,T_nxt,S,S_nxt,P,P_nxt):
     P,P_nxt=P_nxt,P
 
     #apply pressure
-    
+
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
